@@ -60,12 +60,12 @@ flutter pub get
 flutter run
 
 # 3. Para compilar un nuevo APK de producción
-flutter build apk --release
+flutter build apk --release  
 ```
 
-##📄 Documentación de Respaldo
+📄 Documentación de Respaldo
 
-*El banco de datos lingüístico utilizado en el código base fue extraído y validado a partir de documentación académica de Farmacia Clínica. Puedes consultar el archivo fuente en la carpeta DOCS/Banco_Palabras_AyniMed.pdf.
+El banco de datos lingüístico utilizado en el código base fue extraído y validado a partir de documentación académica de Farmacia Clínica. Puedes consultar el archivo fuente en la carpeta DOCS/Banco_Palabras_AyniMed.pdf.
 
 ---
 
