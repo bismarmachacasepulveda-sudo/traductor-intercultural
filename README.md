@@ -45,7 +45,7 @@ La aplicación garantiza operatividad offline, adaptándose a entornos rurales u
 ## 📦 Instalación y Despliegue
 
 ### Opción 1: Probar la Aplicación (Usuario Final)
-1. Ve a la carpeta `apk/` en este repositorio.
+1. Ve a la carpeta `APK/` en este repositorio.
 2. Descarga el archivo `AyniMed.apk`.
 3. Cópialo a tu dispositivo Android, otorga permisos de instalación desde fuentes desconocidas y ejecuta la aplicación. No requiere conexión a internet posterior.
 
@@ -64,7 +64,7 @@ flutter build apk --release
 ```
 ---
 
-📄 Documentación de Respaldo
-El banco de datos lingüístico utilizado en el código base fue extraído y validado a partir de documentación académica de Farmacia Clínica. Puedes consultar el archivo fuente en la carpeta docs/Banco_Palabras_AyniMed.pdf.
+##📄 Documentación de Respaldo
+El banco de datos lingüístico utilizado en el código base fue extraído y validado a partir de documentación académica de Farmacia Clínica. Puedes consultar el archivo fuente en la carpeta DOCS/Banco_Palabras_AyniMed.pdf.
 ---
 
