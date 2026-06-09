@@ -35,11 +35,11 @@ La aplicación garantiza operatividad offline, adaptándose a entornos rurales u
 
 | 🌍 Selección de Idioma | 🎙️ Traductor Interactivo | 💊 Vademécum (Lista) |
 | :---: | :---: | :---: |
-| ![Selección](DOCS/screenshots/SeleccionIdioma.png) | ![Traductor](docs/screenshots/Traductor.png) | ![Lista Medicamentos](docs/screenshots/ListaMedicamentos.png) |
+| ![Selección](DOCS/screenshots/SeleccionIdioma.png) | ![Traductor](DOCS/screenshots/Traductor.png) | ![Lista Medicamentos](DOCS/screenshots/ListaMedicamentos.png) |
 | **Detalles (Español)** | **Detalles (Traducción Quechua)** | **Guía de Uso (Español)** |
-| ![Detalles ES](docs/screenshots/DetallesMedicamentos.png) | ![Detalles QU](docs/screenshots/DetallesMedicamentosQuechua.png) | ![Guía ES](docs/screenshots/GuiaUso.png) |
+| ![Detalles ES](DOCS/screenshots/DetallesMedicamentos.png) | ![Detalles QU](DOCS/screenshots/DetallesMedicamentosQuechua.png) | ![Guía ES](DOCS/screenshots/GuiaUso.png) |
 | **Guía de Uso (Traducción Aymara)** | **Asistencia Remota** | |
-| ![Guía AY](docs/screenshots/GuiaUsoAymara.png) | ![Asistencia](docs/screenshots/Asistencia.png) | |
+| ![Guía AY](DOCS/screenshots/GuiaUsoAymara.png) | ![Asistencia](DOCS/screenshots/Asistencia.png) | |
 ---
 
 ## 📦 Instalación y Despliegue
