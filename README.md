@@ -66,5 +66,4 @@ flutter build apk --release
 
 ##📄 Documentación de Respaldo
 El banco de datos lingüístico utilizado en el código base fue extraído y validado a partir de documentación académica de Farmacia Clínica. Puedes consultar el archivo fuente en la carpeta DOCS/Banco_Palabras_AyniMed.pdf.
----
 
