@@ -33,10 +33,13 @@ La aplicación garantiza operatividad offline, adaptándose a entornos rurales u
 
 ## 📸 Interfaz de Usuario (UI)
 
-> *(Nota: En esta sección estructuraremos las capturas de pantalla de la aplicación mostrando el selector de idioma, el traductor en funcionamiento y el Vademécum).*
-
-**[ ESPACIO RESERVADO PARA LA GALERÍA DE IMÁGENES ]**
-
+| 🌍 Selección de Idioma | 🎙️ Traductor Interactivo | 💊 Vademécum (Lista) |
+| :---: | :---: | :---: |
+| ![Selección](docs/screenshots/SeleccionIdioma.png) | ![Traductor](docs/screenshots/Traductor.png) | ![Lista Medicamentos](docs/screenshots/ListaMedicamentos.png) |
+| **Detalles (Español)** | **Detalles (Traducción Quechua)** | **Guía de Uso (Español)** |
+| ![Detalles ES](docs/screenshots/DetallesMedicamentos.png) | ![Detalles QU](docs/screenshots/DetallesMedicamentosQuechua.png) | ![Guía ES](docs/screenshots/GuiaUso.png) |
+| **Guía de Uso (Traducción Aymara)** | **Asistencia Remota** | |
+| ![Guía AY](docs/screenshots/GuiaUsoAymara.png) | ![Asistencia](docs/screenshots/Asistencia.png) | |
 ---
 
 ## 📦 Instalación y Despliegue
