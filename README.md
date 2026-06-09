@@ -7,13 +7,13 @@
 
 **AyniMed** es una aplicación móvil nativa diseñada para romper las barreras lingüísticas en la dispensación de medicamentos y atención clínica en comunidades de La Paz y el occidente de Bolivia. Permite la comunicación fluida, técnica y culturalmente respetuosa entre profesionales de la salud hispanohablantes y pacientes cuya lengua materna es el **Quechua** o el **Aymara**.
 
-Desarrollada bajo fuertes restricciones de tiempo (Sprint de 48 horas) y conectividad, la aplicación garantiza operatividad 100% offline, adaptándose a entornos rurales u hospitalarios con nulo acceso a internet.
+La aplicación garantiza operatividad offline, adaptándose a entornos rurales u hospitalarios con nulo acceso a internet o areas rurales.
 
 ---
 
 ## ✨ Funcionalidades Principales
 
-* 🌐 **Internacionalización (i18n) Dinámica:** La interfaz de usuario (UI), los tutoriales y las guías de uso se traducen completamente en tiempo real al Español, Quechua y Aymara mediante un gestor de estado.
+* 🌐 **Internacionalización (i18n) Dinámica:** La interfaz de usuario (UI), los tutoriales y las guías de uso se traducen al Español, Quechua y Aymara mediante un gestor de estado.
 * 🏥 **Vademécum Farmacéutico Offline:** Base de datos local integrada con **71 medicamentos esenciales**. Incluye información detallada sobre usos, dosificación y advertencias (ej. interacciones en embarazo o consumo con alimentos).
 * 🗣️ **Motor de Traducción Bidireccional:** Sistema de traducción clínica validada por documentación farmacéutica. Incorpora un banco de datos estático enfocado en síntomas, posología y frases de laboratorio clínico.
 * 🎙️ **Reconocimiento de Voz (Speech-to-Text):** Captura de entrada por dictado para agilizar la atención en mostrador.
@@ -59,6 +59,9 @@ flutter run
 # 3. Para compilar un nuevo APK de producción
 flutter build apk --release
 ```
+---
+
 📄 Documentación de Respaldo
 El banco de datos lingüístico utilizado en el código base fue extraído y validado a partir de documentación académica de Farmacia Clínica. Puedes consultar el archivo fuente en la carpeta docs/Banco_Palabras_AyniMed.pdf.
-***
+---
+
